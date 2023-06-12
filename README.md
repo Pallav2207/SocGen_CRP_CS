@@ -19,6 +19,4 @@ We will be using the natural language processing libraries and various neual net
 
 After training the NER model on the labeled data, we plan to evaluate the model performance on various metrics like accuracy, F1 score, etc (to be further discussed upon) on the test data. The model should be able to identify entities related to potential financial crimes with good accuracy,  precision and recall.
 
-## Current Progress:
-- Step 1 : Work towards creating a dataset based on which we will train the model. 
 
